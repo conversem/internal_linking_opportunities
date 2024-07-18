@@ -12,3 +12,6 @@
 
 <H2>Open in Excel and finish your analysis</H2>
 <p>Now you have an Excel output. Add pivot tables to show how many potential links your target_urls can get and how many instances on what keywords crawl_url can link out.</p>
+
+<H2>Latest update</H2>
+<p>The latest update is due to Sitebulb exports now having its content scrape renamed from "content" to "Text".</p>
